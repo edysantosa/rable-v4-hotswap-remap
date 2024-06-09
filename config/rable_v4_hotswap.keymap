@@ -41,11 +41,11 @@
 
         shortcuts {
             bindings = <
-                &trans            &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans           &trans   &kp BSLH   &kp DELETE 
-                &kp CLCK          &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans           &trans   &kp BSPC 
-                &kp LCTRL         &kp C_VOL_UP   &kp C_VOL_DN   &kp C_MUTE   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans           &trans
-                &trans   &trans   &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans   &trans   &trans   &mo BLUETOOTH    &trans  
-                &trans   &trans   &trans                                              &trans            &trans   &trans   &trans   &trans
+                &kp GRAVE         &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans     &trans     &trans           &trans           &trans   &kp INS   &kp DELETE 
+                &kp CLCK          &trans         &trans         &trans       &trans   &trans   &trans   &trans   &kp PSCRN  &kp SLCK   &kp PAUSE_BREAK  &kp UP           &trans   &kp BSPC 
+                &kp LCTRL         &kp C_VOL_UP   &kp C_VOL_DN   &kp C_MUTE   &trans   &trans   &trans   &trans   &kp HOME   &kp PG_UP  &kp LEFT         &kp RIGHT        &trans
+                &trans   &trans   &trans         &trans         &trans       &trans   &trans   &trans   &trans   &kp END    &kp PG_DN  &kp DOWN         &mo BLUETOOTH    &trans  
+                &trans   &trans   &trans                                              &trans            &trans   &trans     &trans     &trans
             >;
         };
 
