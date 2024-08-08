@@ -3,10 +3,10 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: edysantosa
-      url-base: https://github.com/edysantosa
+      url-base: https://github.com/rizalfr
   projects:
     - name: zmk
-      remote: edysantosa
+      remote: rizalfr
       revision: jaykeeb
       import: app/west.yml
   self:
