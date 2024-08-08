@@ -2,7 +2,7 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: edysantosa
+    - name: rizalfr
       url-base: https://github.com/rizalfr
   projects:
     - name: zmk
