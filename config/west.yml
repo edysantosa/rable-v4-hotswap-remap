@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: rizalfr
-      revision: main
+      revision: jaykeeb-studio-v4
       import: app/west.yml
   self:
     path: config
